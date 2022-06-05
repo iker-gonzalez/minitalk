@@ -32,7 +32,7 @@ For detailed information, refer to the [**subject of this project**](https://git
 
  ## 🛠️ Usage
  
- Clone the repository and run the command `make` root directory.
+ Clone the repository and run the command `make` on the root directory.
  
  This will create two executables: `client` and `server`.
 
